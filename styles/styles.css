@@ -24,6 +24,11 @@
     line-height: normal;
     padding: 17px 24px;
 }
+.btn-primary a{
+    text-decoration: none;
+    color: #0D1321;
+
+}
 
 /* Nav Bar */
 #nav-bar {
@@ -83,7 +88,7 @@
     opacity: 0.7;
 }
 
-.btn-second {
+.btn-second a{
     padding: 21px 24px;
     color: #FFF;
     text-align: center;
@@ -94,6 +99,7 @@
     line-height: normal;
     border-radius: 8px;
     background: #0D1321;
+    text-decoration: none;
 }
 
 
