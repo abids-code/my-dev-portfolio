@@ -332,3 +332,155 @@
 }
 
 
+#my-next-target {
+    display: flex;
+    justify-content: center;
+}
+
+.my-next-target-container {
+    width: 80%;
+}
+
+.my-n-target-title {
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+
+.my-n-target-description {
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+    margin-bottom: 48px;
+}
+
+.card-n-container {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.card-n {
+    display: flex;
+    padding: 40px;
+    gap: 32px;
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: #FFF;
+}
+
+.card-n-title {
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 36px;
+    margin-bottom: 8px;
+}
+
+.card-n-description {
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+    margin-bottom: 24px;
+}
+
+.card-n-link {
+    color: #0D1321;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+#support-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.support-container {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), url(../assets/handshake.jpg) lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    padding: 64px 48px;
+    display: flex;
+    justify-content: center;
+}
+
+.support-title {
+    color: #FFF;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+}
+
+.support-description {
+    color: #FFF;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.7;
+}
+
+.input-field {
+    border-radius: 8px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: #FFF;
+    padding: 19px 20px;
+}
+
+.input-btn {
+    padding: 17px 20px;
+    border-radius: 8px;
+    background: #FFF;
+    color: #0D1321;
+    text-align: center;
+    font-family: "Azeret Mono";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border: none;
+}
+
+.support-content {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+}
+
+.footer-container {
+    margin-top: 80px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 150px;
+}
