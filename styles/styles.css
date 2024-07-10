@@ -119,6 +119,7 @@
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    margin-bottom: 24px;
 }
 
 .why-web-dev-description {
@@ -130,6 +131,7 @@
     font-weight: 400;
     line-height: 26px;
     opacity: 0.7;
+    margin-bottom: 48px;
 }
 
 
@@ -178,6 +180,7 @@
     gap: 32px;
     border-radius: 16px;
     background: linear-gradient(90deg, #FFF 0%, rgba(255, 255, 255, 0.00) 100%);
+    margin-bottom: 32px;
 }
 
 .card-two {
@@ -189,6 +192,7 @@
     gap: 32px;
     border-radius: 16px;
     background: linear-gradient(90deg, #FFF 0%, rgba(255, 255, 255, 0.00) 100%);
+    margin-bottom: 32px;
 }
 
 .card-three {
